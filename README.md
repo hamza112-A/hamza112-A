@@ -28,9 +28,14 @@ const hamza = {
             genAI: "Large language models, generative AI, prompt engineering, fine-tuning AI models"
         }
     },
-    passions: ["Building scalable systems", "Crafting modern, responsive UIs", "Designing clean, maintainable architecture"],
+    passions: [
+        "Building scalable systems",
+        "Crafting modern, responsive UIs",
+        "Designing clean, maintainable architecture"
+    ],
     philosophy: "Transforming ideas into solutions that solve real problems 💡"
 };
+
 
 ```
 
