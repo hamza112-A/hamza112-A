@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-typescript
+```typescript
 const hamza = {
     location: "Pakistan 🇵🇰",
     github: "hamza112-A",
@@ -24,6 +24,7 @@ const hamza = {
     passions: ["Scalable Systems", "Modern UIs", "Clean Architecture"],
     philosophy: "Building solutions that matter 💡"
 };
+```
 
 - 🔭 Currently crafting **full-stack web applications** with modern technologies
 - ⛓️ Deep diving into **blockchain & smart contract development**
