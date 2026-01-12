@@ -20,10 +20,18 @@ const hamza = {
     location: "Pakistan 🇵🇰",
     github: "hamza112-A",
     current_focus: "Full Stack Development",
-    exploring: ["Blockchain", "Smart Contracts", "Web3", "AI & Gen AI"],
-    passions: ["Scalable Systems", "Modern UIs", "Clean Architecture"],
-    philosophy: "Building solutions that matter 💡"
+    exploring: {
+        blockchain: "Smart contracts, decentralized apps, DeFi protocols",
+        web3: "Web3 architecture, wallet integrations, NFT marketplaces",
+        ai: {
+            general: "Foundations of AI, ML algorithms, neural networks",
+            genAI: "Large language models, generative AI, prompt engineering, fine-tuning AI models"
+        }
+    },
+    passions: ["Building scalable systems", "Crafting modern, responsive UIs", "Designing clean, maintainable architecture"],
+    philosophy: "Transforming ideas into solutions that solve real problems 💡"
 };
+
 ```
 
 - 🔭 Currently crafting **full-stack web applications** with modern technologies
