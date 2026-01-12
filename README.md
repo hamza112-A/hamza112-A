@@ -20,23 +20,10 @@ const hamza = {
     location: "Pakistan 🇵🇰",
     github: "hamza112-A",
     current_focus: "Full Stack Development",
-    exploring: {
-        blockchain: "Smart contracts, decentralized apps, DeFi protocols",
-        web3: "Web3 architecture, wallet integrations, NFT marketplaces",
-        ai: {
-            general: "Foundations of AI, ML algorithms, neural networks",
-            genAI: "Large language models, generative AI, prompt engineering, fine-tuning AI models"
-        }
-    },
-    passions: [
-        "Building scalable systems",
-        "Crafting modern, responsive UIs",
-        "Designing clean, maintainable architecture"
-    ],
-    philosophy: "Transforming ideas into solutions that solve real problems 💡"
+    exploring: ["Blockchain", "Smart Contracts", "Web3", "AI & Gen AI"],
+    passions: ["Scalable Systems", "Modern UIs", "Clean Architecture"],
+    philosophy: "Building solutions that matter 💡"
 };
-
-
 ```
 
 - 🔭 Currently crafting **full-stack web applications** with modern technologies
@@ -91,12 +78,13 @@ const hamza = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza112-A&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza112-A&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza112-A&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)](https://github.com/hamza112-A)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamza112-A&theme=tokyonight" alt="GitHub Streak" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza112-A&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/hamza112-A)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamza112-A&theme=tokyonight&hide_border=true&background=1a1b27)](https://github.com/hamza112-A)
+
 </div>
 
 ---
@@ -132,7 +120,7 @@ const hamza = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hamza112-A&theme=tokyonight&no-frame=true&row=1&column=7)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=hamza112-A&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/hamza112-A)
 
 </div>
 
