@@ -137,6 +137,12 @@ const hamza = {
 </div>
 
 ---
+### 🧬 Language Usage Across All Repos
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza112-A&layout=pie&langs_count=12&theme=tokyonight&hide_border=true" alt="Language Pie Chart" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamza112-A&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamza112-A&theme=tokyonight" alt="Most Used Languages by Commits" />
 
 ## 💭 Dev Quote
 
